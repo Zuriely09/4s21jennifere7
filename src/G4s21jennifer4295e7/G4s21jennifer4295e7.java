@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package G4s21Eduardo4295e3;
+package G4s21jennifer4295e7;
 
 import Informacion.Datos;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import java.util.List;
  *
  * @author eg9939
  */
-public class G4s21eduardo4295e7 {
+public class G4s21jennifer4295e7{
 
     /**
      * @param args the command line arguments
